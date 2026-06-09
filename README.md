@@ -86,4 +86,4 @@ YYMMDD_country_campaigntype_segment
 
 ---
 
-*This project was completed as part of the Workintech Data Analytics Program.*
+
